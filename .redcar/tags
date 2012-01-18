@@ -1,0 +1,5 @@
+1326858008
+Application	/home/juan/projects/summit2012/config/application.rb	  class Application 
+ApplicationController	/home/juan/projects/summit2012/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/juan/projects/summit2012/app/helpers/application_helper.rb	module ApplicationHelper
+Summit2012	/home/juan/projects/summit2012/config/application.rb	module Summit2012
